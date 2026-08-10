@@ -170,6 +170,7 @@ The README is organized as follows:
 - [A Benders-combined safe reinforcement learning framework for risk-averse dispatch considering frequency security constraints](https://ieeexplore.ieee.org/abstract/document/11062567)
 - [Safe reinforcement learning-based transient stability control for islanded microgrids with topology reconfiguration](https://ieeexplore.ieee.org/document/11003897)
 - [Knowledge-GPT guided generalizable reinforcement learning for intelligent emergency generator tripping in power system](https://ieeexplore.ieee.org/document/11130587)
+- [Physics-augmented safe reinforcement learning for overload mitigation in distribution networks under weather-sensitive thermal constraints](https://doi.org/10.1016/j.apenergy.2026.127752)
 
 #### 3.2 Real-Time Operation
 
@@ -200,8 +201,7 @@ The README is organized as follows:
 - [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
 - [Privacy-enhanced safe reinforcement learning for the dispatch of a local energy community](https://ieeexplore.ieee.org/abstract/document/10887028)
 - [Carbon cap based multi-energy sharing among heterogeneous microgrids using multi-agent safe reinforcement learning method with credit assignment and sequential update](https://www.sciencedirect.com/science/article/abs/pii/S0306261925007482)
-- [RL2: Reinforce large language model to assist safe reinforcement learning for energy management of active distribution networks](https://arxiv.org/abs/2412.01303)
-- [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
+- [RL2: Reinforce large language model to assist safe reinforcement learning for energy management of active distribution networks](https://doi.org/10.1109/TSG.2025.3568226)
 - [Multi-agent safe reinforcement learning based distributed optimal dispatch for active distribution network with incomplete information](https://ieeexplore.ieee.org/abstract/document/10838231)
 - [Deep reinforcement learning approach for dynamic distribution network reconfiguration based on sequential masking](https://ieeexplore.ieee.org/abstract/document/11030288)
 - [Knowledge-augmented population-based deep reinforcement learning for real-time network-constrained economic dispatch of large-scale power grid](https://ieeexplore.ieee.org/abstract/document/11027791)
@@ -214,6 +214,11 @@ The README is organized as follows:
 - [Safe deep reinforcement learning for active distribution system model predictive control with EVs and DERs](https://ieeexplore.ieee.org/abstract/document/11348095)
 - [A framework for safe reinforcement learning in battery storage scheduling under partial observability](https://ieeexplore.ieee.org/abstract/document/11503103)
 - [Safe reinforcement learning-based robust scheduling for energy systems: Experimental validation and energy management insights](https://www.sciencedirect.com/science/article/pii/S0306261926012894)
+- [A trustworthy hybrid human-LLM assisted safe reinforcement learning method for distribution network operation](https://doi.org/10.1016/j.apenergy.2026.128389)
+- [LLM-guided safe reinforcement learning for energy system topology reconfiguration](https://doi.org/10.1016/j.apenergy.2026.128319)
+- [Safe deep reinforcement learning-assisted two-stage energy management for active power distribution networks with hydrogen fueling stations](https://doi.org/10.1016/j.apenergy.2024.124170)
+- [Safe and efficient dispatch of integrated electricity-hydrogen systems via robust constrained reinforcement learning with adversarial training](https://doi.org/10.1016/j.energy.2025.139876)
+- [A knowledge-based safe reinforcement learning approach for real-time automatic control in a smart energy hub](https://doi.org/10.1016/j.energy.2025.139569)
 
 ##### 3.2.2 System Restoration
 
@@ -239,6 +244,8 @@ The README is organized as follows:
 - [SMA-PDPPO: Safe multiagent primal-dual deep reinforcement learning for industrial parks energy trading](https://ieeexplore.ieee.org/abstract/document/10812202)
 - [Network-constrained P2P trading: A safety-aware decentralized multi-agent reinforcement learning approach](https://ieeexplore.ieee.org/document/11087389)
 - [V2G coordination for secure and low-carbon operation of EV-rich distribution systems: A safe reinforcement learning approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11561045) 
+- [Personalized dynamic operating envelope-based P2P energy trading: A novel multiagent safe reinforcement learning](https://doi.org/10.1109/TSG.2026.3660840)
+- [Safe multi-agent deep reinforcement learning for joint bidding and maintenance scheduling of generation units](https://doi.org/10.1016/j.ress.2022.109081)
 
 #### 3.4 Emerging Areas
 
@@ -273,6 +280,7 @@ The README is organized as follows:
 - [Green data center cooling control via physics-guided safe reinforcement learning](https://dl.acm.org/doi/abs/10.1145/3582577)
 - [SafeCool: Safe and energy-efficient cooling management in data centers with model-based reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10018918)
 - [Toward model-assisted safe reinforcement learning for data center cooling control: A Lyapunov-based approach](https://dl.acm.org/doi/abs/10.1145/3575813.3597343)
+- [A novel safe multi-agent deep reinforcement learning-based method for smart building energy management](https://doi.org/10.1016/j.enbuild.2025.116256)
 
 ### 4 Real-World Deployment Cases
 
