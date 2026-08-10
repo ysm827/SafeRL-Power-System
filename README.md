@@ -213,6 +213,7 @@ The README is organized as follows:
 - [Shield-enhanced safe reinforcement learning control for wave energy converters](https://www.sciencedirect.com/science/article/pii/S0360544225045256)
 - [Safe deep reinforcement learning for active distribution system model predictive control with EVs and DERs](https://ieeexplore.ieee.org/abstract/document/11348095)
 - [A framework for safe reinforcement learning in battery storage scheduling under partial observability](https://ieeexplore.ieee.org/abstract/document/11503103)
+- [Safe reinforcement learning-based robust scheduling for energy systems: Experimental validation and energy management insights](https://www.sciencedirect.com/science/article/pii/S0306261926012894)
 
 ##### 3.2.2 System Restoration
 
